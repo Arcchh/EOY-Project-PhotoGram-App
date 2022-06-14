@@ -1,0 +1,62 @@
+h1 {
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-size: 65px;
+}
+
+h2 {
+    font-family: 'Lobster Two', cursive;
+}
+
+
+.posts {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    text-align: center;
+}
+
+p.sample {
+    text-align: center;
+    line-height: 50%;
+}
+
+p.ap1 {
+    line-height: 75%;
+}
+
+p.ap2 {
+    line-height: 10%;
+}
+
+img {
+    width: 130px;
+    border: 3px double black;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 300px;
+    text-align: center;
+}
+
+
+.likes {
+    border: 5px black solid;
+    border-radius: 15px;
+    padding: 5px;
+    position: absolute;
+}
+
+.liked-photo {
+    position: relative;
+}
